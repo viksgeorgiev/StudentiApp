@@ -1,5 +1,5 @@
 
-name: Test and Deploy 
+name: Test and Deploy node js application
 
 on:
   push:
